@@ -7,7 +7,7 @@ Aplicação de clima com React - em inglês. Veja o clima da cidade que você qu
 ![Preview](githubPreview/src/video/previewDesktop.gif)
 
 ### Mobile
-<div style="height: 200px; width: 200px;">![Preview](githubPreview/src/video/previewMobile.gif)</div>
+![Preview](githubPreview/src/video/previewMobile.gif)
 
 ## Acessar Projeto
 Para clonar o projeto, você pode utilizar o ```git clone``` no terminal **git bash** ou um de sua preferência.
